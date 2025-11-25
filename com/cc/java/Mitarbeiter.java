@@ -35,8 +35,6 @@ public class Mitarbeiter {
             return "Something went wrong";
         }
     }
-
-    
 }
 
 

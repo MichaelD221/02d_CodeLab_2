@@ -32,4 +32,4 @@ public class App {
 	private static void output(String outStr) {
 		System.out.println(outStr);
 	}
-};
+}
