@@ -17,7 +17,7 @@ public class Mitarbeiter {
     
 
     public String getInfo(String profil) {
-        // == vergleicht Referenzen - ob zwei Variablen auf dasselbe Objekt zeigen
+        // == vergleicht Referenzen, ob zwei Variablen auf dasselbe Objekt zeigen
         // .equals() vergleicht Inhalte 
         if (profil.equals("familyName")) {
             return familyName;

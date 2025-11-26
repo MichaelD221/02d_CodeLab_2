@@ -3,7 +3,7 @@ package com.cc.java;
 public class App {
 
 	// Absatz und Trennlinie
-	public static String line = "\n" + "----------------------------------";
+	public static String line = "\n----------------------------------";
 
 	public static void main(String[] args) {
 	
